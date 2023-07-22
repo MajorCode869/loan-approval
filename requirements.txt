@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+imbalanced-learn
+scipy
+warnings
+os
+missingno
+xgboost
+# Flask
+
+#-e .

@@ -3,8 +3,7 @@ import pickle as pkl
 import numpy as np
 import os
 
-def __init__():
-    return
+
 
 def load_model():
     
